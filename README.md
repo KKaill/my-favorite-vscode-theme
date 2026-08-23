@@ -9,7 +9,7 @@ Please feel free to use it.
 1. [Install](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc) Catppuccin for VSCode
 2. Apply theme to Mocha
 3. Open the VSCode JSON settings file and append the following sentence.
-```json
+```jsonc
 {
     // ...other settings
     "catppuccin.colorOverrides": {
