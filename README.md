@@ -27,7 +27,7 @@ I made this because I wanted an even darker version of the Catppuccin theme for 
             "blue": "#6B96CC",
             "lavender": "#96A0D0",
             "text": "#AFB8C6",
-            "subtext1": "#AFB8C6",
+            "subtext1": "#9CA4B0",
             "subtext0": "#888F9A",
             "overlay2": "#757B84",
             "overlay1": "#61666E",
